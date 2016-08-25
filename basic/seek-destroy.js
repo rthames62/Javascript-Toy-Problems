@@ -1,4 +1,4 @@
-// Return the lowest index at which a value (second argument) should be inserted into an array (first argument) once it has been sorted.
+// You will be provided with an initial array (the first argument in the destroyer function), followed by one or more arguments. Remove all elements from the initial array that are of the same value as these arguments.
 
 function destroyer(arr, arg1, arg2, arg3) {
 
